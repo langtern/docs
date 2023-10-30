@@ -3,7 +3,7 @@
 # How to install the Langtern Chrome extension
 
 1. Go to the Chrome extension webstore 
-<a href="https://chrome.google.com/webstore/detail/langtern/noofghepdoofpogfmbajnllfcdimfeip" target="_blank">clicling here</a>.
+[clicking here](https://chrome.google.com/webstore/detail/langtern/noofghepdoofpogfmbajnllfcdimfeip").
 
 2. Sign-in to your Google account.
 
