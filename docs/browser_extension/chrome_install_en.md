@@ -27,24 +27,22 @@ itself.
 
    ![activate Langtern](chrome_activate.jpg)
 
-The first time, you will need to log in to your Langtern account. Create one if
-you don't have it yet.
+   The first time, you will need to log in to your Langtern account. Create one if you don't have it yet.
 
    ![log in to Langtern](chrome_login.jpg)
 
 
-Don't forget to set the language you are studying with the little flag button on the side panel.
+   Don't forget to set the language you are studying with the little flag button on the side panel.
 
 7. Use the extension, either for text in web pages, by placing the mouse over a word you
 don't know:
 
    ![Langtern assisting a newspaper page in English](chrome_text_english.jpg)
 
-Or watching a Youtube video with captions:
+   Or watching a Youtube video with captions:
 
    ![Langtern assisting Youtube in Chinese](chrome_youtube_chinese.jpg)
 
 
-If you find any problems, just reload the page. If you have further doubts, you can write to
-us at contact@langtern.com .
+   If you find any problems, just reload the page. If you have further doubts, you can write to us at contact@langtern.com .
 
